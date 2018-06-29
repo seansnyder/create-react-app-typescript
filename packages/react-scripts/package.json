@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-xldc",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Configuration and scripts for Create React App.",
   "repository": "wmonk/create-react-app",
   "license": "BSD-3-Clause",
@@ -18,7 +18,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts-ts": "./bin/react-scripts-ts.js"
+    "react-scripts-xldc": "./bin/react-scripts-xldc.js"
   },
   "dependencies": {
     "autoprefixer": "7.1.6",
